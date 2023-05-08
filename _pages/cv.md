@@ -9,51 +9,105 @@ redirect_from:
 
 {% include base_path %}
 
+You can also download a PDF of my CV [here](http://kossoski.github.io/files/CV.pdf).
+
+Professional experience
+======
+
+* **Postdoctoral researcher** (11/2020 - present) \
+Laboratoire de Chimie et Physique Quantiques, Université Paul Sabatier, Toulouse, France \
+Workgroup of [Pierre-François Loos](https://pfloos.github.io/WEB_LOOS/)
+
+* **Postdoctoral researcher** (11/2018 - 09/2020) \
+Institut de Chimie Radicalaire, Aix Marseille Université, Marseille, France \
+Workgroup of [Mario Barbatti](https://barbatti.org/)
+
+* **Postdoctoral researcher internship** (05/2017 - 04/2018) \
+Institut de Chimie Radicalaire, Aix-Marseille Université, Marseille, France \
+Workgroup of [Mario Barbatti](https://barbatti.org/)
+
+* **Postdoctoral researcher** (05/2016 - 04/2017 and 05/2018 - 10/2018) \
+"Gleb Wataghin" Physics Institute, State University of Campinas, Campinas, Brazil \
+Workgroup of [Marco A. P. Lima](https://sites.ifi.unicamp.br/maplima/en/)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **PhD in Physics** (03/2012 - 02/2016) \
+Thesis: [Dynamics of temporary ions of halogenated biomolecules](http://kossoski.github.io/files/PhD_thesis.pdf) \
+Physics Institute, University of São Paulo, São Paulo, Brazil \
+Supervisor: [Márcio T. do N. Varella](http://fig.if.usp.br/~mvarella/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Master in Physics** (03/2010 - 02/2012) \
+Thesis: [Elastic electron scattering by isomers of C<sub>2</sub>H<sub>2</sub>Cl<sub>2</sub>, C<sub>4</sub>H<sub>4</sub>N<sub>2</sub>, and C<sub>3</sub>H<sub>3</sub>NX (X=NH, O, S)](http://kossoski.github.io/files/MSc_thesis.pdf)\
+Physics Department, Federal University of Paraná, Curitiba, Brazil \
+Supervisor: [Márcio H. F. Bettega](https://fisica.ufpr.br/bettega/)
+
+* **Degree in Physics** (03/2006 - 02/2010) \
+Physics Department, Federal University of Paraná, Curitiba, Brazil
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+* [**36 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific papers
+* **340 citations** and **H-index 12** according to the Web of Science
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+
+* [**13 talks**](https://kossoski.github.io/talks/) in conferences, being **7 invited talks**
+
+Mentoring and teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+* **Mentoring**
+  * 2021 - present &nbsp; Yann Damour (PhD student)
+  * 2020 - present &nbsp; Alan G. Falkowski (PhD student)
+  * 2019 - 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Julio C. Ruivo (PhD student)
+  * 2018 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matheus B. Kiataki (PhD student)
+  * 2019 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alan G. Falkowski (Master student)
+  * 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leticia S. Maioli (PhD student)
+  * 2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lucas M. Cornetta (PhD student)
+  * 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Josué S. dos Santos (PhD student)
+
+* **Teaching assistant**
+  * 2015 &nbsp; Physics I (undergraduate)
+  * 2014 &nbsp; Physics I (undergraduate)
+  * 2014 &nbsp; Introduction to Physics (undergraduate)
+  * 2013 &nbsp; Introduction to Atomic and Molecular Physics (undergraduate)
+  * 2013 &nbsp; Electricity and Magnetism I (undergraduate)
+  * 2012 &nbsp; Physics I (undergraduate)
+
+Academic services
 ======
-* Currently signed in to 43 different slack teams
+
+* **Event organization**
+  * 2023 &nbsp; Scientific organizing committee of the [19th ETSF Young Researchers’ Meeting](https://www.etsfyrm2023.com/), Zaragoza, Spain
+  * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
+
+* **Peer-review** \
+  27 reports for 10 peer-reviewed scientific journals:
+  * Journal of Chemical Theory and Computation
+  * Journal of Chemical Physics
+  * Physical Chemistry Chemical Physics
+  * Physical Review A
+  * Physica Scripta
+  * Journal of Physics B: Atomic, Molecular, and Optical Physics
+  * International Journal of Molecular Sciences
+  * The European Physical Journal D
+  * European Journal of Physics
+  * Journal of Physics: Conference Series
+
+* **Jury member in PhD and Master’s defense and qualifying exams**
+  * 2021 &nbsp; Jury member in the Master’s qualifying exam of Alan G. Falkowski, at Unicamp, Campinas, Brazil
+  * 2021 &nbsp; Jury member in the PhD qualifying exam of Letícia S. Maioli, at UFPR, Curitiba, Brazil
+  * 2018 &nbsp; Jury member in the Master’s dissertation of Matheus B. Kiataki, at UFPR, Curitiba, Brazil
+
+Languages
+======
+
+* English (fluent)
+* French (intermediate)
+* Spanish (intermediate)
+* Portuguese (mother tongue)
+
