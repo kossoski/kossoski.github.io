@@ -29,13 +29,13 @@ A. d. A. Cadena, A. G. Falkowski, R. Pocoroba, R. Jones, M. Mathur, J. G. Childe
 Phys. Rev. A 106, 062825 (2022).
 
 * 33\.
-M. Barbatti\*, M. Bondanza, R. Crespo-Otero, B. Demoulin, P. O. Dral, G. Granucci, **F. Kossoski**, H. Lischka, B. Mennucci, S. Mukherjee, M. Pederzoli, M. Persico, M. Pinheiro Jr, J. Pittner, F. Plasser, E. S. Gil, L. Stojanovic. \
 [The Newton-X platform: new software developments for surface hopping and nuclear ensembles](https://doi.org/10.1021/acs.jctc.2c00804) \
+M. Barbatti\*, M. Bondanza, R. Crespo-Otero, B. Demoulin, P. O. Dral, G. Granucci, **F. Kossoski**, H. Lischka, B. Mennucci, S. Mukherjee, M. Pederzoli, M. Persico, M. Pinheiro Jr, J. Pittner, F. Plasser, E. S. Gil, L. Stojanovic. \
 J. Chem. Theory Comput. 18, 6851 (2022).
 
 * 32\.
-A. I. Lozano\*, **F. Kossoski**\*, F. Blanco, P. Limão-Vieira, M. T. do N. Varella, G. García. \
 [Observation of Transient Anions That Do Not Decay through Dissociative Electron Attachment: New Pathways for Radiosensitization](https://doi.org/10.1021/acs.jpclett.2c01704) \
+A. I. Lozano\*, **F. Kossoski**\*, F. Blanco, P. Limão-Vieira, M. T. do N. Varella, G. García. \
 J. Phys. Chem. Lett. 13, 30, 7001 (2022).
 
 * 31\.
