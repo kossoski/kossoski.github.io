@@ -50,7 +50,7 @@ Publications
 ======
 
 * [**36 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific papers
-* **340 citations** and **H-index 12** according to the Web of Science
+* **355 citations** and **H-index 12** according to the Web of Science
 
 Talks
 ======
@@ -86,7 +86,7 @@ Academic services
   * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
 
 * **Peer-review** \
-  27 reports for 10 peer-reviewed scientific journals:
+  [28 reports](https://www.webofscience.com/wos/author/record/1430812) for 10 peer-reviewed scientific journals:
   * Journal of Chemical Theory and Computation
   * Journal of Chemical Physics
   * Physical Chemistry Chemical Physics
