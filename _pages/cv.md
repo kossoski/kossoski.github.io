@@ -50,7 +50,7 @@ Publications
 ======
 
 * [**36 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific papers
-* **355 citations** and **H-index 12** according to the Web of Science
+* [**355 citations**](https://www.webofscience.com/wos/author/record/1430812) and [**H-index 12**](https://www.webofscience.com/wos/author/record/1430812) according to the Web of Science
 
 Talks
 ======
