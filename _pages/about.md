@@ -12,7 +12,7 @@ Welcome! My name is Fábris Kossoski.
 I do research in Theoretical Chemistry and \
 Molecular Physics, at the [Laboratoire de Chimie et Physique Quantiques](https://www.lcpq.ups-tlse.fr/?lang=en), in Toulouse, France.
 
-I develop state-of-the-art theoretical methods and computational softwares to model molecular systems and their interactions with free electrons and photons.
+I develop state-of-the-art theoretical methods and computational software to model molecular systems and their interactions with free electrons and photons.
 My effort covers three fronts: **electronic structure**, **nonadiabatic dynamics** and **electron scattering** methodologies.
 
 In collaboration with [Pierre-François Loos](https://pfloos.github.io/WEB_LOOS/),
