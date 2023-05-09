@@ -13,7 +13,7 @@ author_profile: true
 * Mario Barbatti (Marseille, France)
 * Márcio T. do N. Varella (São Paulo, Brazil)
 * Marco A. P. Lima and Romarly F. da Costa (Campinas and Santo André, Brazil)
-* Márcio H. F. Bettega and Alessandra de S. Barbosa (Curitiba, Brazil)
+* Márcio H. F. Bettega and Alessandra S. Barbosa (Curitiba, Brazil)
 
 **Experimental collaborators**
 
