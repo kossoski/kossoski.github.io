@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Fábris Kossoski"
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,7 +20,7 @@ we seek novel electronic structure methods, with a particular focus on molecular
 I am also interested in simulating electron-induced chemistry, photoinduced chemistry and photoabsorption with mixed quantum-classical dynamics simulations.
 Finally, I am one of the main developers of the Schwinger multichannel method, an ab-initio formulation to investigate electron scattering from molecules.
 
-In addition to developing, I also interested in **applications**. I apply these theoretical and computational tools to tackle problems of chemical relevance.
+In addition to developing, I am also interested in **applications**. I apply these theoretical and computational tools to tackle problems of chemical relevance.
 In particular, I simulate how free electrons can break molecules apart.
 This is a fundamental physical-chemical process, playing major roles in many natural and man-made environments.
 I also work in close collaboration with several experimental groups on various aspects of the electron-molecule collision.
