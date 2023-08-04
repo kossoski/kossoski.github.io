@@ -13,6 +13,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
+* 37\.
+[Electron Scattering from 1-Methyl-5-Nitroimidazole: Cross-Sections for Modeling Electron Transport through Potential Radiosensitizers](https://doi.org/10.3390/ijms241512182) \
+A. I. Lozano, L. Álvarez, A. García-Abenza, C. Guerra, **F. Kossoski**, J. Rosado, F. Blanco, J. C. Oller , M. Hasan, M. Centurion, T. Weber, D. S. Slaughter, D. M. Mootheril, A. Dorn, S. Kumar, P. Limão-Vieira, R. Colmenares, G. García. \
+Int. J. Mol. Sci. 24(15), 12182 (2023).
+
 * 36\. 
 [State-Specific Configuration Interaction for Excited States](https://doi.org/10.1021/acs.jctc.3c00057) \
 **F. Kossoski**\*, P.-F. Loos\*. \
