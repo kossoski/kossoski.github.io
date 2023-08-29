@@ -13,6 +13,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
+* 38\.
+[Seniority and Hierarchy Configuration Interaction for Radicals and Excited States](https://arxiv.org/abs/2308.14618) \
+**F. Kossoski**\*, P.-F. Loos\*. \
+Submitted (2023).
+
 * 37\.
 [Electron Scattering from 1-Methyl-5-Nitroimidazole: Cross-Sections for Modeling Electron Transport through Potential Radiosensitizers](https://doi.org/10.3390/ijms241512182) \
 A. I. Lozano, L. Álvarez, A. García-Abenza, C. Guerra, **F. Kossoski**, J. Rosado, F. Blanco, J. C. Oller , M. Hasan, M. Centurion, T. Weber, D. S. Slaughter, D. M. Mootheril, A. Dorn, S. Kumar, P. Limão-Vieira, R. Colmenares, G. García\*. \
