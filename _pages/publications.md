@@ -13,6 +13,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
+* 39\.
+[Reference Vertical Excitation Energies for Transition Metal Compounds]() \
+D. Jacquemin\*, **F. Kossoski**, F. Gam, M. Boggio-Pasqua\*, and P.-F. Loos\* \
+Submitted (2023).
+
 * 38\.
 [Seniority and Hierarchy Configuration Interaction for Radicals and Excited States](https://arxiv.org/abs/2308.14618) \
 **F. Kossoski**\*, P.-F. Loos\*. \
