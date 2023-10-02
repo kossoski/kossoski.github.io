@@ -14,7 +14,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
 * 39\.
-[Reference Vertical Excitation Energies for Transition Metal Compounds]() \
+[Reference Vertical Excitation Energies for Transition Metal Compounds](https://arxiv.org/abs/2309.17311) \
 D. Jacquemin\*, **F. Kossoski**, F. Gam, M. Boggio-Pasqua\*, and P.-F. Loos\* \
 Submitted (2023).
 
