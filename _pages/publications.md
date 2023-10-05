@@ -13,15 +13,20 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
-* 39\.
+* 40\.
 [Reference Vertical Excitation Energies for Transition Metal Compounds](https://arxiv.org/abs/2309.17311) \
 D. Jacquemin\*, **F. Kossoski**, F. Gam, M. Boggio-Pasqua\*, and P.-F. Loos\* \
 Submitted (2023).
 
-* 38\.
+* 39\.
 [Seniority and Hierarchy Configuration Interaction for Radicals and Excited States](https://arxiv.org/abs/2308.14618) \
 **F. Kossoski**\*, P.-F. Loos\*. \
 Submitted (2023).
+
+* 38\.
+[Electron impact electronic excitation of benzene: theory and experiment](https://doi.org/10.1063/5.0173024) \
+A. Falkowski, R. F. da Costa, M. A. P. Lima, A. d. A. Cadena, R. Pocoroba, R. Jones, M. Mathur, J. Childers, M. Khakoo\*, and **F. Kossoski**\*. \
+J. Chem. Phys. (in press) (2023).
 
 * 37\.
 [Electron Scattering from 1-Methyl-5-Nitroimidazole: Cross-Sections for Modeling Electron Transport through Potential Radiosensitizers](https://doi.org/10.3390/ijms241512182) \
