@@ -15,7 +15,7 @@ author_profile: true
 
 * 40\.
 [Reference Vertical Excitation Energies for Transition Metal Compounds](https://arxiv.org/abs/2309.17311) \
-D. Jacquemin\*, **F. Kossoski**, F. Gam, M. Boggio-Pasqua\*, and P.-F. Loos\* \
+D. Jacquemin\*, **F. Kossoski**, F. Gam, M. Boggio-Pasqua\*, P.-F. Loos\* \
 Submitted (2023).
 
 * 39\.
@@ -25,7 +25,7 @@ Submitted (2023).
 
 * 38\.
 [Electron impact electronic excitation of benzene: theory and experiment](https://doi.org/10.1063/5.0173024) \
-A. Falkowski, R. F. da Costa, M. A. P. Lima, A. d. A. Cadena, R. Pocoroba, R. Jones, M. Mathur, J. Childers, M. Khakoo\*, and **F. Kossoski**\*. \
+A. Falkowski, R. F. da Costa, M. A. P. Lima, A. d. A. Cadena, R. Pocoroba, R. Jones, M. Mathur, J. Childers, M. Khakoo\*, **F. Kossoski**\*. \
 J. Chem. Phys. (in press) (2023).
 
 * 37\.
