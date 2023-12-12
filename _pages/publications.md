@@ -14,14 +14,14 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
 * 40\.
-[Seniority and Hierarchy Configuration Interaction for Radicals and Excited States](https://doi.org/10.1021/acs.jctc.3c00946) \
-**F. Kossoski**\*, P.-F. Loos\*. \
-J. Chem. Theory Comput. (ASAP) (2023).
-
-* 39\.
 [Reference Vertical Excitation Energies for Transition Metal Compounds](https://doi.org/10.1021/acs.jctc.3c01080) \
 D. Jacquemin\*, **F. Kossoski**, F. Gam, M. Boggio-Pasqua\*, P.-F. Loos\* \
-J. Chem. Theory Comput. (ASAP) (2023).
+J. Chem. Theory Comput. 19, 8782 (2023).
+
+* 39\.
+[Seniority and Hierarchy Configuration Interaction for Radicals and Excited States](https://doi.org/10.1021/acs.jctc.3c00946) \
+**F. Kossoski**\*, P.-F. Loos\*. \
+J. Chem. Theory Comput. 19, 8654 (2023).
 
 * 38\.
 [Electron impact electronic excitation of benzene: theory and experiment](https://doi.org/10.1063/5.0173024) \
