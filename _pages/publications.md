@@ -13,9 +13,9 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
-* 41.\
+* 41\.
 [State-Specific Coupled-Cluster Methods for Excited States]() \
-Y. Damour\*, A. Scemama, D. Jacquemin, F. Kossoski\*, P.-F. Loos\* \
+Y. Damour\*, A. Scemama, D. Jacquemin, **F. Kossoski**\*, P.-F. Loos\* \
 Submitted (2024).
 
 * 40\.
