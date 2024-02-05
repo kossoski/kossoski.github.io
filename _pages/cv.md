@@ -49,9 +49,9 @@ Physics Department, Federal University of Paraná, Curitiba, Brazil
 Publications
 ======
 
-* [**37 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific papers
-* [**373 citations**](https://www.webofscience.com/wos/author/record/1430812) and [**H-index 12**](https://www.webofscience.com/wos/author/record/1430812) according to the Web of Science
-* [**521 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 13**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [**40 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific papers
+* [**443 citations**](https://www.webofscience.com/wos/author/record/1430812) and [**H-index 13**](https://www.webofscience.com/wos/author/record/1430812) according to the Web of Science
+* [**610 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 15**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
@@ -87,14 +87,16 @@ Academic services
   * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
 
 * **Peer-review** \
-  [28 reports](https://www.webofscience.com/wos/author/record/1430812) for 10 peer-reviewed scientific journals:
+  [28 reports](https://www.webofscience.com/wos/author/record/1430812) for 12 peer-reviewed scientific journals:
+  * Nature Communications
+  * The Journal of Physical Chemistry Letters
   * Journal of Chemical Theory and Computation
   * Journal of Chemical Physics
   * Physical Chemistry Chemical Physics
   * Physical Review A
   * Physica Scripta
-  * Journal of Physics B: Atomic, Molecular, and Optical Physics
   * International Journal of Molecular Sciences
+  * Journal of Physics B: Atomic, Molecular, and Optical Physics
   * The European Physical Journal D
   * European Journal of Physics
   * Journal of Physics: Conference Series
