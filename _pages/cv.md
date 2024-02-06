@@ -87,7 +87,7 @@ Academic services
   * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
 
 * **Peer-review** \
-  [28 reports](https://www.webofscience.com/wos/author/record/1430812) for 12 peer-reviewed scientific journals:
+  [39 reports](https://www.webofscience.com/wos/author/record/1430812) for 12 peer-reviewed scientific journals:
   * Nature Communications
   * The Journal of Physical Chemistry Letters
   * Journal of Chemical Theory and Computation
