@@ -21,6 +21,6 @@ In particular, I develop a computational code based on the Schwinger multichanne
 
 In addition to the electronic problem, I develop nonadiabatic dynamics methods to investigate **electron-induced chemistry** and **photochemistry**.
 
-In addition to developing methods, I apply them to solve problems of chemical relevance.
+I am also interested in applying these theoretical tools to solve problems of chemical relevance.
 This is often done in close [collaboration](https://kossoski.github.io/collaborations/) with different experimental and theoretical groups.
 
