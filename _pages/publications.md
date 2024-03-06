@@ -21,7 +21,7 @@ Submitted (2024).
 * 41\.
 [State-Specific Coupled-Cluster Methods for Excited States](https://arxiv.org/pdf/2401.05048) \
 Y. Damour\*, A. Scemama, D. Jacquemin, **F. Kossoski**\*, P.-F. Loos\* \
-Submitted (2024).
+J. Chem. Theory Comput. (in press) (2024).
 
 * 40\.
 [Reference Vertical Excitation Energies for Transition Metal Compounds](https://doi.org/10.1021/acs.jctc.3c01080) \
