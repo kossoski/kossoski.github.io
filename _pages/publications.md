@@ -13,15 +13,10 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
-* 43\.
+* 42\.
 [Reference Energies for Double Excitations: Improvement and Extension](https://arxiv.org/abs/2403.19597) \
 **F. Kossoski**\*, M. Boggio-Pasqua\*, P.-F. Loos\*, D. Jacquemin\* \
 J. Chem. Theory Comput. (submitted) (2024).
-
-* 42\.
-[Go Green: Selected Configuration Interaction as a More Sustainable Alternative for High Accuracy](https://arxiv.org/abs/2402.13111) \
-P.-F. Loos\*, Y. Damour, A. Ammar, M. Caffarel, **F. Kossoski**, A. Scemama \
-J. Phys. Chem. A (submitted) (2024).
 
 * 41\.
 [State-Specific Coupled-Cluster Methods for Excited States](https://arxiv.org/pdf/2401.05048) \
