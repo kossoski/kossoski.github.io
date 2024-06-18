@@ -50,8 +50,8 @@ Publications
 ======
 
 * [**42 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific papers
-* [**504 citations**](https://www.webofscience.com/wos/author/record/47997303) and [**H-index 13**](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [**685 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 16**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [**534 citations**](https://www.webofscience.com/wos/author/record/47997303) and [**H-index 14**](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [**692 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 17**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
