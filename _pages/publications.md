@@ -16,7 +16,7 @@ author_profile: true
 * 42\.
 [Reference Energies for Double Excitations: Improvement and Extension](https://doi.org/10.1021/acs.jctc.4c00410) \
 **F. Kossoski**\*, M. Boggio-Pasqua\*, P.-F. Loos\*, D. Jacquemin\* \
-J. Chem. Theory Comput. (2024).
+J. Chem. Theory Comput. 20, 5655 (2024).
 
 * 41\.
 [State-Specific Coupled-Cluster Methods for Excited States](https://doi.org/10.1021/acs.jctc.4c00034) \
