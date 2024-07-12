@@ -15,6 +15,7 @@ author_profile: true
 
 * 43\.
 [Selected Configuration Interaction for Resonances](https://arxiv.org/abs/2407.08576) \
+Y. Damour\*, A. Scemama, **F. Kossoski**\*, P.-F. Loos\* \
 Submitted (2024).
 
 * 42\.
