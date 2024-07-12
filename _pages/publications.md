@@ -13,7 +13,7 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
-* 43.\
+* 43\.
 [Selected Configuration Interaction for Resonances](https://arxiv.org/abs/2407.08576) \
 Submitted (2024).
 
