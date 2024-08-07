@@ -14,9 +14,9 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
 * 43\.
-[Selected Configuration Interaction for Resonances](https://arxiv.org/abs/2407.08576) \
+[Selected Configuration Interaction for Resonances](https://doi.org/10.1021/acs.jpclett.4c02060) \
 Y. Damour\*, A. Scemama, **F. Kossoski**\*, P.-F. Loos\* \
-J. Phys. Chem. Lett. (in press).
+J. Phys. Chem. Lett. (2024).
 
 * 42\.
 [Reference Energies for Double Excitations: Improvement and Extension](https://doi.org/10.1021/acs.jctc.4c00410) \

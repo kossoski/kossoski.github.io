@@ -51,7 +51,7 @@ Publications
 
 * [**43 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific papers
 * [**549 citations**](https://www.webofscience.com/wos/author/record/47997303) and [**H-index 14**](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [**722 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 17**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [**723 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 17**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
@@ -87,14 +87,14 @@ Academic services
   * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
 
 * **Peer-review** \
-  [46 reports](https://orcid.org/0000-0002-1627-7093) for 13 peer-reviewed scientific journals:
-  * Nature Communications
+  [48 reports](https://orcid.org/0000-0002-1627-7093) for 13 peer-reviewed scientific journals:
   * The Journal of Physical Chemistry Letters
   * Journal of Chemical Theory and Computation
   * Journal of Chemical Physics
   * Physical Chemistry Chemical Physics
   * Physical Review A
   * Physica Scripta
+  * Nature Communications
   * International Journal of Molecular Sciences
   * Journal of Physics B: Atomic, Molecular, and Optical Physics
   * Journal of Electron Spectroscopy and Related Phenomena
