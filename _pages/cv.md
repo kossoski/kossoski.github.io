@@ -50,8 +50,8 @@ Publications
 ======
 
 * [**43 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific papers
-* [**549 citations**](https://www.webofscience.com/wos/author/record/47997303) and [**H-index 14**](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [**723 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 17**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [**552 citations**](https://www.webofscience.com/wos/author/record/47997303) and [**H-index 14**](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [**728 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 17**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
@@ -87,18 +87,18 @@ Academic services
   * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
 
 * **Peer-review** \
-  [48 reports](https://orcid.org/0000-0002-1627-7093) for 13 peer-reviewed scientific journals:
-  * The Journal of Physical Chemistry Letters
-  * Journal of Chemical Theory and Computation
-  * Journal of Chemical Physics
-  * Physical Chemistry Chemical Physics
+  [49 reports](https://orcid.org/0000-0002-1627-7093) for 13 peer-reviewed scientific journals:
   * Physical Review A
+  * Physical Chemistry Chemical Physics
+  * Journal of Chemical Theory and Computation
+  * Journal of Physics B: Atomic, Molecular, and Optical Physics
+  * The Journal of Chemical Physics
+  * The European Physical Journal D
+  * The Journal of Physical Chemistry Letters
   * Physica Scripta
   * Nature Communications
-  * International Journal of Molecular Sciences
-  * Journal of Physics B: Atomic, Molecular, and Optical Physics
   * Journal of Electron Spectroscopy and Related Phenomena
-  * The European Physical Journal D
+  * International Journal of Molecular Sciences
   * European Journal of Physics
   * Journal of Physics: Conference Series
 
