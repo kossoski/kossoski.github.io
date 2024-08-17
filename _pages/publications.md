@@ -13,10 +13,15 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
+* 44\.
+[Low-Energy Electron Interactions with Methyl-p-benzoquinone: Study of Negative Ion Formation]() \
+J. Chen, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
+ACS Omega (in press).
+
 * 43\.
 [Selected Configuration Interaction for Resonances](https://doi.org/10.1021/acs.jpclett.4c02060) \
 Y. Damour\*, A. Scemama, **F. Kossoski**\*, P.-F. Loos\* \
-J. Phys. Chem. Lett. (2024).
+J. Phys. Chem. Lett. 15, 32, 8296 (2024).
 
 * 42\.
 [Reference Energies for Double Excitations: Improvement and Extension](https://doi.org/10.1021/acs.jctc.4c00410) \

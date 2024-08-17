@@ -49,9 +49,9 @@ Physics Department, Federal University of Paraná, Curitiba, Brazil
 Publications
 ======
 
-* [**43 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific papers
-* [**552 citations**](https://www.webofscience.com/wos/author/record/47997303) and [**H-index 14**](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [**728 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 17**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [**44 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific papers
+* [**554 citations**](https://www.webofscience.com/wos/author/record/47997303) and [**H-index 14**](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [**738 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 17**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
