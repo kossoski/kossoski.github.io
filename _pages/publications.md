@@ -14,7 +14,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
 * 44\.
-[Low-Energy Electron Interactions with Methyl-p-benzoquinone: Study of Negative Ion Formation]() \
+[Low-Energy Electron Interactions with Methyl-p-benzoquinone: Study of Negative Ion Formation](https://doi.org/10.1021/acsomega.4c04899) \
 J. Chen, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
 ACS Omega (in press).
 
