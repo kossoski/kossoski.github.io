@@ -15,7 +15,7 @@ Professional experience
 ======
 
 * **CNRS researcher (_chargé de recherche_)** (10/2024 - present) \
-Laboratoire de Chimie et Physique Quantiques, Université Paul Sabatier, Toulouse, France \
+Laboratoire de Chimie et Physique Quantiques, Université Paul Sabatier, Toulouse, France
 
 * **Postdoctoral researcher** (11/2020 - 09/2024) \
 Laboratoire de Chimie et Physique Quantiques, Université Paul Sabatier, Toulouse, France \
