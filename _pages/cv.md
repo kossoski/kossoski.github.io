@@ -14,7 +14,10 @@ You can also download a PDF of my CV [here](http://kossoski.github.io/files/CV.p
 Professional experience
 ======
 
-* **Postdoctoral researcher** (11/2020 - present) \
+* **CNRS researcher (_chargé de recherche_)** (10/2024 - present) \
+Laboratoire de Chimie et Physique Quantiques, Université Paul Sabatier, Toulouse, France \
+
+* **Postdoctoral researcher** (11/2020 - 09/2024) \
 Laboratoire de Chimie et Physique Quantiques, Université Paul Sabatier, Toulouse, France \
 Workgroup of [Pierre-François Loos](https://pfloos.github.io/WEB_LOOS/)
 
@@ -50,16 +53,19 @@ Publications
 ======
 
 * [**44 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [**554 citations**](https://www.webofscience.com/wos/author/record/47997303) and [**H-index 14**](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [**738 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 17**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [**587 citations**](https://www.webofscience.com/wos/author/record/47997303) and [**H-index 15**](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [**779 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 17**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
 
 * [**13 talks**](https://kossoski.github.io/talks/) in conferences, being **7 invited talks**
 
-Mentoring and teaching
+Supervision, mentoring and teaching
 ======
+
+* **Supervision**
+  * 2024 - present &nbsp; Josep Alberola Boloix (PhD student)
 
 * **Mentoring**
   * 2021 - present &nbsp; Yann Damour (PhD student)

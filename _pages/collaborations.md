@@ -22,4 +22,5 @@ author_profile: true
 * Murtadha A. Khakoo (California, USA)
 * Janina Kopyra (Siedlce, Poland)
 * Hassan Abdoul-Carime (Lyon, France)
+* Stephan Denifl (Innsbruck, Austria)
 
