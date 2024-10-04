@@ -52,14 +52,14 @@ Physics Department, Federal University of Paraná, Curitiba, Brazil
 Publications
 ======
 
-* [**44 publications**](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [**587 citations**](https://www.webofscience.com/wos/author/record/47997303) and [**H-index 15**](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [**781 citations**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [**H-index 17**](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [44 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
+* [587 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 15](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [781 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 17](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
 
-* [**13 talks**](https://kossoski.github.io/talks/) in conferences, being **7 invited talks**
+* [13 talks](https://kossoski.github.io/talks/) in conferences, being 7 invited talks
 
 Supervision, mentoring and teaching
 ======
@@ -109,9 +109,9 @@ Academic services
   * Journal of Physics: Conference Series
 
 * **Jury member in PhD and Master’s defense and qualifying exams**
-  * 2021 &nbsp; Jury member in the Master’s qualifying exam of Alan G. Falkowski, at Unicamp, Campinas, Brazil
-  * 2021 &nbsp; Jury member in the PhD qualifying exam of Letícia S. Maioli, at UFPR, Curitiba, Brazil
-  * 2018 &nbsp; Jury member in the Master’s dissertation of Matheus B. Kiataki, at UFPR, Curitiba, Brazil
+  * 2021 &nbsp; Master’s qualifying exam of Alan G. Falkowski, at Unicamp, Campinas, Brazil
+  * 2021 &nbsp; PhD qualifying exam of Letícia S. Maioli, at UFPR, Curitiba, Brazil
+  * 2018 &nbsp; Master’s dissertation of Matheus B. Kiataki, at UFPR, Curitiba, Brazil
 
 Languages
 ======
