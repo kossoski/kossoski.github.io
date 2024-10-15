@@ -53,8 +53,8 @@ Publications
 ======
 
 * [44 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [587 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 15](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [781 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 17](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [596 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 15](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [794 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 17](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
@@ -69,7 +69,7 @@ Supervision, mentoring and teaching
 
 * **Mentoring**
   * 2021 - present &nbsp; Yann Damour (PhD student)
-  * 2020 - present &nbsp; Alan G. Falkowski (PhD student)
+  * 2020 - 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alan G. Falkowski (PhD student)
   * 2019 - 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Julio C. Ruivo (PhD student)
   * 2018 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matheus B. Kiataki (PhD student)
   * 2019 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alan G. Falkowski (Master student)
