@@ -68,7 +68,7 @@ Supervision, mentoring and teaching
   * 2024 - present &nbsp; Josep Alberola Boloix (PhD student)
 
 * **Mentoring**
-  * 2021 - present &nbsp; Yann Damour (PhD student)
+  * 2021 - 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yann Damour (PhD student)
   * 2020 - 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Alan G. Falkowski (PhD student)
   * 2019 - 2021 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Julio C. Ruivo (PhD student)
   * 2018 - 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Matheus B. Kiataki (PhD student)
@@ -109,6 +109,7 @@ Academic services
   * Journal of Physics: Conference Series
 
 * **Jury member in PhD and Master’s defense and qualifying exams**
+  * 2024 &nbsp; PhD defense of Yann Damour, at Université Paul Sabatier, Toulouse, France
   * 2021 &nbsp; Master’s qualifying exam of Alan G. Falkowski, at Unicamp, Campinas, Brazil
   * 2021 &nbsp; PhD qualifying exam of Letícia S. Maioli, at UFPR, Curitiba, Brazil
   * 2018 &nbsp; Master’s dissertation of Matheus B. Kiataki, at UFPR, Curitiba, Brazil
