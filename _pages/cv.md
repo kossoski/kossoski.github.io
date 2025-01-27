@@ -15,10 +15,10 @@ Professional experience
 ======
 
 * **CNRS researcher (_chargé de recherche_)** (10/2024 - present) \
-Laboratoire de Chimie et Physique Quantiques, Université Paul Sabatier, Toulouse, France
+Laboratoire de Chimie et Physique Quantiques, Université de Toulouse, Toulouse, France
 
 * **Postdoctoral researcher** (11/2020 - 09/2024) \
-Laboratoire de Chimie et Physique Quantiques, Université Paul Sabatier, Toulouse, France \
+Laboratoire de Chimie et Physique Quantiques, Université de Toulouse, Toulouse, France \
 Workgroup of [Pierre-François Loos](https://pfloos.github.io/WEB_LOOS/)
 
 * **Postdoctoral researcher** (11/2018 - 09/2020) \
@@ -53,8 +53,8 @@ Publications
 ======
 
 * [44 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [634 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 16](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [845 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 18](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [639 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 16](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [847 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 18](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
@@ -111,7 +111,7 @@ Academic services
   * Journal of Physics: Conference Series
 
 * **Jury member in PhD and Master’s defense and qualifying exams**
-  * 2024 &nbsp; PhD defense of Yann Damour, at Université Paul Sabatier, Toulouse, France
+  * 2024 &nbsp; PhD defense of Yann Damour, at Université de Toulouse, Toulouse, France
   * 2021 &nbsp; Master’s qualifying exam of Alan G. Falkowski, at Unicamp, Campinas, Brazil
   * 2021 &nbsp; PhD qualifying exam of Letícia S. Maioli, at UFPR, Curitiba, Brazil
   * 2018 &nbsp; Master’s dissertation of Matheus B. Kiataki, at UFPR, Curitiba, Brazil
