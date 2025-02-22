@@ -98,9 +98,9 @@ Academic services
   * Journal of Chemical Theory and Computation
   * Physical Chemistry Chemical Physics
   * Journal of Physics B: Atomic, Molecular, and Optical Physics
+  * The Journal of Physical Chemistry Letters
   * The Journal of Chemical Physics
   * The European Physical Journal D
-  * The Journal of Physical Chemistry Letters
   * Chemistry - An Asian Journal
   * Physica Scripta
   * Nature Communications
