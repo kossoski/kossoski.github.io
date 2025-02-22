@@ -53,8 +53,8 @@ Publications
 ======
 
 * [44 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [639 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 16](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [847 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 18](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [659 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 16](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [872 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 18](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
@@ -93,18 +93,18 @@ Academic services
   * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
 
 * **Peer-review** \
-  [57 reports](https://orcid.org/0000-0002-1627-7093) for 15 peer-reviewed scientific journals:
+  [59 reports](https://orcid.org/0000-0002-1627-7093) for 15 peer-reviewed scientific journals:
   * Physical Review A
-  * Physical Chemistry Chemical Physics
   * Journal of Chemical Theory and Computation
+  * Physical Chemistry Chemical Physics
   * Journal of Physics B: Atomic, Molecular, and Optical Physics
   * The Journal of Chemical Physics
   * The European Physical Journal D
   * The Journal of Physical Chemistry Letters
+  * Chemistry - An Asian Journal
   * Physica Scripta
   * Nature Communications
   * Journal of Electron Spectroscopy and Related Phenomena
-  * Chemistry - An Asian Journal
   * Molecules
   * International Journal of Molecular Sciences
   * European Journal of Physics
