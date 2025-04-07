@@ -13,6 +13,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
+* 45\.
+[Vacuum ultraviolet spectroscopy of pyrimidine derivatives: effect of halogenation](https://doi.org/10.1039/D5CP00198F) \
+**F. Kossoski**\*, M. Mendes\*, A. I. Lozano, R. Rodrigues, N. C. Jones, S. V. Hoffmann, F. Ferreira da Silva \
+Phys. Chem. Chem. Phys. (Accepted Manuscript) (2025).
+
 * 44\.
 [Low-Energy Electron Interactions with Methyl-p-benzoquinone: Study of Negative Ion Formation](https://doi.org/10.1021/acsomega.4c04899) \
 J. Chen, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
