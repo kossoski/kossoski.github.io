@@ -93,15 +93,15 @@ Academic services
   * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
 
 * **Peer-review** \
-  [59 reports](https://orcid.org/0000-0002-1627-7093) for 15 peer-reviewed scientific journals:
+  [61 reports](https://orcid.org/0000-0002-1627-7093) for 15 peer-reviewed scientific journals:
   * Physical Review A
   * Journal of Chemical Theory and Computation
   * Physical Chemistry Chemical Physics
   * Journal of Physics B: Atomic, Molecular, and Optical Physics
   * The Journal of Physical Chemistry Letters
   * The Journal of Chemical Physics
-  * The European Physical Journal D
   * Chemistry - An Asian Journal
+  * The European Physical Journal D
   * Physica Scripta
   * Nature Communications
   * Journal of Electron Spectroscopy and Related Phenomena
