@@ -16,7 +16,7 @@ author_profile: true
 * 45\.
 [Vacuum ultraviolet spectroscopy of pyrimidine derivatives: effect of halogenation](https://doi.org/10.1039/D5CP00198F) \
 **F. Kossoski**\*, M. Mendes\*, A. I. Lozano, R. Rodrigues, N. C. Jones, S. V. Hoffmann, F. Ferreira da Silva \
-Phys. Chem. Chem. Phys. (Accepted Manuscript) (2025).
+Phys. Chem. Chem. Phys. 27, 9687-9701 (2025).
 
 * 44\.
 [Low-Energy Electron Interactions with Methyl-p-benzoquinone: Study of Negative Ion Formation](https://doi.org/10.1021/acsomega.4c04899) \
