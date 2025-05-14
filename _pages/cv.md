@@ -53,13 +53,13 @@ Publications
 ======
 
 * [45 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [675 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 16](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [896 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 18](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [707 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 16](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [922 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 18](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
 
-* [13 talks](https://kossoski.github.io/talks/) in conferences, being 7 invited talks
+* [14 talks](https://kossoski.github.io/talks/) in conferences, being 8 invited talks
 
 Supervision, mentoring and teaching
 ======

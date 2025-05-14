@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+* 14\. **How to model molecular systems with unbound electrons?** \
+6th NanoX - FeRMI Days, Toulouse, France (2025). \
+Invited talk
+
 * 13\. **State-specific configuration interaction for excited states** \
 Workshop on Excited-state Methods, Toulouse, France (2023). \
 Invited talk
