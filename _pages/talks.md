@@ -5,6 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
+* 16\.
+POSMOL, Matsue, Japan (2025). \
+Invited talk
+
+* 15\.
+Third General Meeting of GDR NBODY: Interdisciplinarity conference on many-body theory, Nancy, France (2025). \
+Invited talk
+
 * 14\. **How to model molecular systems with unbound electrons?** \
 6th NanoX - FeRMI Days, Toulouse, France (2025). \
 Invited talk
