@@ -53,8 +53,8 @@ Publications
 ======
 
 * [45 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [716 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 16](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [940 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 18](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [717 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 16](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [965 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 19](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
@@ -93,7 +93,7 @@ Academic services
   * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
 
 * **Peer-review** \
-  [61 reports](https://orcid.org/0000-0002-1627-7093) for 15 peer-reviewed scientific journals:
+  [66 reports](https://orcid.org/0000-0002-1627-7093) for 16 peer-reviewed scientific journals:
   * Physical Review A
   * Journal of Chemical Theory and Computation
   * Physical Chemistry Chemical Physics
@@ -105,6 +105,7 @@ Academic services
   * Physica Scripta
   * Nature Communications
   * Journal of Electron Spectroscopy and Related Phenomena
+  * ChemPhysChem
   * Molecules
   * International Journal of Molecular Sciences
   * European Journal of Physics

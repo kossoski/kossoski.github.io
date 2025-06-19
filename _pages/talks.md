@@ -9,7 +9,7 @@ author_profile: true
 POSMOL, Matsue, Japan (2025). \
 Invited talk
 
-* 15\.
+* 15\. **Resonances and the complex absorbing potential method** \
 Third General Meeting of GDR NBODY: Interdisciplinarity conference on many-body theory, Nancy, France (2025). \
 Invited talk
 
