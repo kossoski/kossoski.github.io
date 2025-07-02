@@ -13,6 +13,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
+* 46\.
+[Complex Absorbing Potential Green's Function Methods for Resonances]() \
+L. Burth, F. Kossoski, and P.-F. Loos\* \
+(Submitted).
+
 * 45\.
 [Vacuum ultraviolet spectroscopy of pyrimidine derivatives: effect of halogenation](https://doi.org/10.1039/D5CP00198F) \
 **F. Kossoski**\*, M. Mendes\*, A. I. Lozano, R. Rodrigues, N. C. Jones, S. V. Hoffmann, F. Ferreira da Silva \
