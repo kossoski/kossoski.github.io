@@ -15,7 +15,7 @@ author_profile: true
 
 * 46\.
 [Complex Absorbing Potential Green's Function Methods for Resonances]() \
-L. Burth, F. Kossoski, and P.-F. Loos\* \
+L. Burth, **F. Kossoski**, and P.-F. Loos\* \
 (Submitted).
 
 * 45\.
