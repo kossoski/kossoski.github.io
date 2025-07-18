@@ -53,8 +53,8 @@ Publications
 ======
 
 * [45 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [724 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 16](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
-* [970 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 19](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
+* [733 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 16](https://www.webofscience.com/wos/author/record/47997303) according to the Web of Science
+* [984 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 19](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) according to Google Scholar
 
 Talks
 ======
@@ -112,10 +112,11 @@ Academic services
   * Journal of Physics: Conference Series
 
 * **Jury member in PhD and Master’s defense and qualifying exams**
+  * 2025 &nbsp; Master defense of Valéria Liberti, at UFPR, Curitiba, Brazil
   * 2024 &nbsp; PhD defense of Yann Damour, at Université de Toulouse, Toulouse, France
   * 2021 &nbsp; Master’s qualifying exam of Alan G. Falkowski, at Unicamp, Campinas, Brazil
   * 2021 &nbsp; PhD qualifying exam of Letícia S. Maioli, at UFPR, Curitiba, Brazil
-  * 2018 &nbsp; Master’s dissertation of Matheus B. Kiataki, at UFPR, Curitiba, Brazil
+  * 2018 &nbsp; Master defense of Matheus B. Kiataki, at UFPR, Curitiba, Brazil
 
 Languages
 ======
