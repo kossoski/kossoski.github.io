@@ -61,7 +61,7 @@ Talks
 
 * [16 talks](https://kossoski.github.io/talks/) in conferences, being 10 invited talks
 
-Supervision, mentoring and teaching
+Supervision and mentoring
 ======
 
 * **Supervision**
@@ -76,14 +76,6 @@ Supervision, mentoring and teaching
   * 2020 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Leticia S. Maioli (PhD student)
   * 2017 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lucas M. Cornetta (PhD student)
   * 2014 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Josué S. dos Santos (PhD student)
-
-* **Teaching assistant**
-  * 2015 &nbsp; Physics I (undergraduate)
-  * 2014 &nbsp; Physics I (undergraduate)
-  * 2014 &nbsp; Introduction to Physics (undergraduate)
-  * 2013 &nbsp; Introduction to Atomic and Molecular Physics (undergraduate)
-  * 2013 &nbsp; Electricity and Magnetism I (undergraduate)
-  * 2012 &nbsp; Physics I (undergraduate)
 
 Academic services
 ======
