@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-* 16\.
+* 16\. **Towards highly accurate resonance energies in electron-molecule scattering** \
 POSMOL, Matsue, Japan (2025). \
 Invited talk
 
