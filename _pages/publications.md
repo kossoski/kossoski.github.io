@@ -16,7 +16,7 @@ author_profile: true
 * 46\.
 [Complex Absorbing Potential Green's Function Methods for Resonances](https://arxiv.org/abs/2507.03496) \
 L. Burth, **F. Kossoski**, and P.-F. Loos\* \
-(Submitted).
+J. Chem. Theory Comput. (in press).
 
 * 45\.
 [Vacuum ultraviolet spectroscopy of pyrimidine derivatives: effect of halogenation](https://doi.org/10.1039/D5CP00198F) \

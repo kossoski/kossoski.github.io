@@ -52,9 +52,9 @@ Physics Department, Federal University of Paraná, Curitiba, Brazil
 Publications
 ======
 
-* [45 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [749 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 17](https://www.webofscience.com/wos/author/record/47997303) (Web of Science)
-* [1004 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 19](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) (Google Scholar)
+* [46 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
+* [804 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 17](https://www.webofscience.com/wos/author/record/47997303) (Web of Science)
+* [1094 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 20](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) (Google Scholar)
 
 Talks
 ======
@@ -85,19 +85,20 @@ Academic services
   * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
 
 * **Peer-review** \
-  [70 reports](https://orcid.org/0000-0002-1627-7093) for 16 peer-reviewed scientific journals:
+  [75 reports](https://orcid.org/0000-0002-1627-7093) for 17 peer-reviewed scientific journals:
   * Physical Review A
   * Journal of Chemical Theory and Computation
   * Physical Chemistry Chemical Physics
   * Journal of Physics B: Atomic, Molecular, and Optical Physics
-  * The Journal of Physical Chemistry Letters
   * The Journal of Chemical Physics
-  * Chemistry - An Asian Journal
+  * The Journal of Physical Chemistry Letters
   * The European Physical Journal D
+  * Chemistry - An Asian Journal
+  * ChemPhysChem
   * Physica Scripta
   * Nature Communications
   * Journal of Electron Spectroscopy and Related Phenomena
-  * ChemPhysChem
+  * Communications Chemistry
   * Molecules
   * International Journal of Molecular Sciences
   * European Journal of Physics
