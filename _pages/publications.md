@@ -13,6 +13,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
+* 47\.
+Formation of the long-lived parent anion upon electron attachment to menadione \
+F. Izadi, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
+(submitted).
+
 * 46\.
 [Complex Absorbing Potential Green's Function Methods for Resonances](https://arxiv.org/abs/2507.03496) \
 L. Burth, **F. Kossoski**, and P.-F. Loos\* \
