@@ -19,7 +19,7 @@ F. Izadi, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
 (submitted).
 
 * 46\.
-[Complex Absorbing Potential Green's Function Methods for Resonances](https://arxiv.org/abs/2507.03496) \
+[Complex Absorbing Potential Green's Function Methods for Resonances](https://doi.org/10.1021/acs.jctc.5c01164) \
 L. Burth, **F. Kossoski**, and P.-F. Loos\* \
 J. Chem. Theory Comput. (in press).
 
