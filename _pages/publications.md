@@ -21,7 +21,7 @@ F. Izadi, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
 * 46\.
 [Complex Absorbing Potential Green's Function Methods for Resonances](https://doi.org/10.1021/acs.jctc.5c01164) \
 L. Burth, **F. Kossoski**, and P.-F. Loos\* \
-J. Chem. Theory Comput. (in press).
+J. Chem. Theory Comput. 21, 11463 (2025).
 
 * 45\.
 [Vacuum ultraviolet spectroscopy of pyrimidine derivatives: effect of halogenation](https://doi.org/10.1039/D5CP00198F) \
