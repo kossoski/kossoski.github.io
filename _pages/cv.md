@@ -52,9 +52,9 @@ Physics Department, Federal University of Paraná, Curitiba, Brazil
 Publications
 ======
 
-* [46 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [816 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 17](https://www.webofscience.com/wos/author/record/47997303) (Web of Science)
-* [1114 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 20](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) (Google Scholar)
+* [47 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
+* [863 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 17](https://www.webofscience.com/wos/author/record/47997303) (Web of Science)
+* [1172 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 21](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) (Google Scholar)
 
 Talks
 ======
@@ -66,6 +66,7 @@ Supervision and mentoring
 
 * **Supervision**
   * 2024 - present &nbsp; Josep Alberola Boloix (PhD student)
+  * 2026 - present &nbsp; Antonin Dufour (Master student)
 
 * **Mentoring**
   * 2021 - 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Yann Damour (PhD student)
@@ -85,14 +86,15 @@ Academic services
   * 2023 &nbsp; Local organizer of the [Workshop on Excited-State Methods](https://pfloos.github.io/PTEROSOR_midterm_workshop/), Toulouse, France
 
 * **Peer-review** \
-  [75 reports](https://orcid.org/0000-0002-1627-7093) for 17 peer-reviewed scientific journals:
+  [79 reports](https://orcid.org/0000-0002-1627-7093) for 18 peer-reviewed scientific journals:
   * Physical Review A
   * Journal of Chemical Theory and Computation
   * Physical Chemistry Chemical Physics
-  * Journal of Physics B: Atomic, Molecular, and Optical Physics
   * The Journal of Chemical Physics
-  * The Journal of Physical Chemistry Letters
+  * Journal of Physics B: Atomic, Molecular, and Optical Physics
   * The European Physical Journal D
+  * The Journal of Physical Chemistry Letters
+  * The Journal of Physical Chemistry A
   * Chemistry - An Asian Journal
   * ChemPhysChem
   * Physica Scripta
