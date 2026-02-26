@@ -14,7 +14,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
 * 47\.
-Formation of the long-lived parent anion upon electron attachment to menadione \
+[Formation of the long-lived parent anion upon electron attachment to menadione](https://doi.org/10.1021/acs.jpca.5c07629) \
 F. Izadi, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
 J. Phys. Chem. A (in press).
 
