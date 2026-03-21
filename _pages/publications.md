@@ -14,14 +14,14 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
 * 47\.
-[Formation of the long-lived parent anion upon electron attachment to menadione](https://doi.org/10.1021/acs.jpca.5c07629) \
+[Formation of the Long-Lived Parent Anion upon Electron Attachment to Menadione](https://doi.org/10.1021/acs.jpca.5c07629) \
 F. Izadi, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
-J. Phys. Chem. A (in press).
+J. Phys. Chem. A 130, 10, 2041-2050 (2026).
 
 * 46\.
 [Complex Absorbing Potential Green's Function Methods for Resonances](https://doi.org/10.1021/acs.jctc.5c01164) \
 L. Burth, **F. Kossoski**, and P.-F. Loos\* \
-J. Chem. Theory Comput. 21, 11463 (2025).
+J. Chem. Theory Comput. 21, 22, 11463-11480 (2025).
 
 * 45\.
 [Vacuum ultraviolet spectroscopy of pyrimidine derivatives: effect of halogenation](https://doi.org/10.1039/D5CP00198F) \
@@ -31,32 +31,32 @@ Phys. Chem. Chem. Phys. 27, 9687-9701 (2025).
 * 44\.
 [Low-Energy Electron Interactions with Methyl-p-benzoquinone: Study of Negative Ion Formation](https://doi.org/10.1021/acsomega.4c04899) \
 J. Chen, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
-ACS Omega 9, 36, 38032 (2024).
+ACS Omega 9, 36, 38032-38043 (2024).
 
 * 43\.
 [Selected Configuration Interaction for Resonances](https://doi.org/10.1021/acs.jpclett.4c02060) \
 Y. Damour\*, A. Scemama, **F. Kossoski**\*, P.-F. Loos\* \
-J. Phys. Chem. Lett. 15, 32, 8296 (2024).
+J. Phys. Chem. Lett. 15, 32, 8296-8305 (2024).
 
 * 42\.
 [Reference Energies for Double Excitations: Improvement and Extension](https://doi.org/10.1021/acs.jctc.4c00410) \
 **F. Kossoski**\*, M. Boggio-Pasqua\*, P.-F. Loos\*, D. Jacquemin\* \
-J. Chem. Theory Comput. 20, 5655 (2024).
+J. Chem. Theory Comput. 20, 13, 5655-5678 (2024).
 
 * 41\.
 [State-Specific Coupled-Cluster Methods for Excited States](https://doi.org/10.1021/acs.jctc.4c00034) \
 Y. Damour\*, A. Scemama, D. Jacquemin, **F. Kossoski**\*, P.-F. Loos\* \
-J. Chem. Theory Comput. 20, 4129 (2024).
+J. Chem. Theory Comput. 20, 10, 4129-4145 (2024).
 
 * 40\.
 [Reference Vertical Excitation Energies for Transition Metal Compounds](https://doi.org/10.1021/acs.jctc.3c01080) \
 D. Jacquemin\*, **F. Kossoski**, F. Gam, M. Boggio-Pasqua\*, P.-F. Loos\* \
-J. Chem. Theory Comput. 19, 8782 (2023).
+J. Chem. Theory Comput. 19, 23, 8782-8800 (2023).
 
 * 39\.
 [Seniority and Hierarchy Configuration Interaction for Radicals and Excited States](https://doi.org/10.1021/acs.jctc.3c00946) \
 **F. Kossoski**\*, P.-F. Loos\*. \
-J. Chem. Theory Comput. 19, 8654 (2023).
+J. Chem. Theory Comput. 19, 23, 8654-8670 (2023).
 
 * 38\.
 [Electron impact electronic excitation of benzene: theory and experiment](https://doi.org/10.1063/5.0173024) \
@@ -71,12 +71,12 @@ Int. J. Mol. Sci. 24(15), 12182 (2023).
 * 36\. 
 [State-Specific Configuration Interaction for Excited States](https://doi.org/10.1021/acs.jctc.3c00057) \
 **F. Kossoski**\*, P.-F. Loos\*. \
-J. Chem. Theory Comput. 19, 2258 (2023).
+J. Chem. Theory Comput. 19, 8, 2258-2269 (2023).
 
 * 35\.
 [Ground- and Excited-State Dipole Moments and Oscillator Strengths of Full Configuration Interaction Quality](https://doi.org/10.1021/acs.jctc.2c01111) \
 Y. Damour\*, R. Quintero-Monsebaiz, M. Caffarel, D. Jacquemin, **F. Kossoski**, A. Scemama, P.-F. Loos\*. \
-J. Chem. Theory Comput. 19, 221 (2023).
+J. Chem. Theory Comput. 19, 1, 221-234 (2023).
 
 * 34\.
 [Cross sections for elastic electron scattering by benzene at low and intermediate energies](https://doi.org/10.1103/PhysRevA.106.062825) \
@@ -86,17 +86,17 @@ Phys. Rev. A 106, 062825 (2022).
 * 33\.
 [The Newton-X platform: new software developments for surface hopping and nuclear ensembles](https://doi.org/10.1021/acs.jctc.2c00804) \
 M. Barbatti\*, M. Bondanza, R. Crespo-Otero, B. Demoulin, P. O. Dral, G. Granucci, **F. Kossoski**, H. Lischka, B. Mennucci, S. Mukherjee, M. Pederzoli, M. Persico, M. Pinheiro Jr, J. Pittner, F. Plasser, E. S. Gil, L. Stojanovic. \
-J. Chem. Theory Comput. 18, 6851 (2022).
+J. Chem. Theory Comput. 18, 11, 6851-6865 (2022).
 
 * 32\.
 [Observation of Transient Anions That Do Not Decay through Dissociative Electron Attachment: New Pathways for Radiosensitization](https://doi.org/10.1021/acs.jpclett.2c01704) \
 A. I. Lozano\*, **F. Kossoski**\*, F. Blanco, P. Limão-Vieira, M. T. do N. Varella, G. García. \
-J. Phys. Chem. Lett. 13, 30, 7001 (2022).
+J. Phys. Chem. Lett. 13, 30, 7001-7008 (2022).
 
 * 31\.
 [Hierarchy Configuration Interaction: Combining Seniority Number and Excitation Degree](https://doi.org/10.1021/acs.jpclett.2c00730) \
 **F. Kossoski**\*, Y. Damour, P.-F. Loos\*. \
-J. Phys. Chem. Lett. 13, 19, 4342 (2022).
+J. Phys. Chem. Lett. 13, 19, 4342-4349 (2022).
 
 * 30\.
 [Electronic excitation of benzene by low energy electron impact and the role of higher lying Rydberg states](https://doi.org/10.1140/epjd/s10053-021-00326-x) \
@@ -116,12 +116,12 @@ J. Chem. Phys. 155, 104105 (2021).
 * 27\.
 [Anion states of halocamphor molecules: insights into chirally sensitive dissociative electron attachment](https://doi.org/10.1039/D1CP02316K) \
 J. C. Ruivo, **F. Kossoski**, M. T. do N. Varella\*. \
-Phys. Chem. Chem. Phys. 23, 17616 (2021).
+Phys. Chem. Chem. Phys. 23, 17616-17624 (2021).
 
 * 26\.
 [Excited States from State-Specific Orbital-Optimized Pair Coupled Cluster](https://doi.org/10.1021/acs.jctc.1c00348) \
 **F. Kossoski**\*, A. Marie, A. Scemama, M. Caffarel, P.-F. Loos\*. \
-J. Chem. Theory Comput. 17, 4756 (2021).
+J. Chem. Theory Comput. 17, 8, 4756-4768 (2021).
 
 * 25\.
 [Excited states of bromopyrimidines probed by VUV photoabsorption spectroscopy and theoretical calculations](https://doi.org/10.3390/ijms22126460) \
@@ -131,22 +131,22 @@ Int. J. Mol. Sci. 22(12), 6460 (2021).
 * 24\.
 [Perfluoro effect on the electronic excited states of para-benzoquinone revealed by experiment and theory](https://doi.org/10.1039/D0CP05626J) \
 J. Pereira-da-Silva, M. Mendes\*, **F. Kossoski**\*, A. I. Lozano, R. Rodrigues, N. C. Jones, S. V. Hoffmann, F. Ferreira da Silva. \
-Phys. Chem. Chem. Phys. 23, 2141 (2021).
+Phys. Chem. Chem. Phys. 23, 2141-2153 (2021).
 
 * 23\.
 [Shape Resonances and Elastic Cross Sections in Electron Scattering by CF<sub>3</sub>Br and CF<sub>3</sub>I](https://doi.org/10.1021/acs.jpca.0c07845) \
 M. Kiataki, M. T. do N. Varella, M. H. F. Bettega, **F. Kossoski**\*. \
-J. Phys. Chem. A 124, 42, 8660 (2020).
+J. Phys. Chem. A 124, 42, 8660-8667 (2020).
 
 * 22\.
 [Selective bond breaking of halothane induced by electron transfer in potassium collisions](https://doi.org/10.1039/D0CP02570D) \
 A. I. Lozano, L. S. Maioli, B. Pamplona, J. Romero, M. Mendes, F. Ferreira da Silva, **F. Kossoski**, M. Probst, D. Süß, M. H. F. Bettega, G. García, P. Limão-Vieira\*. \
-Phys. Chem. Chem. Phys. 22, 23837 (2020).
+Phys. Chem. Chem. Phys. 22, 23837-23846 (2020).
 
 * 21\.
 [Nonadiabatic dynamics in multidimensional complex potential energy surfaces](https://doi.org/10.1039/D0SC04197A) \
 **F. Kossoski**\*, M. Barbatti\*. \
-Chem. Sci. 11, 9827 (2020).
+Chem. Sci. 11, 9827-9835 (2020).
 
 * 20\.
 [Electronic excitation of ethanol by low-energy electron impact](https://doi.org/10.1063/5.0008428) \
@@ -156,7 +156,7 @@ J. Chem. Phys. 152, 244302 (2020).
 * 19\.
 [Low-energy electron scattering by cyanamide: anion spectra and dissociation pathways](https://doi.org/10.1039/D0CP00806K) \
 L. S. Maioli, **F. Kossoski**\*, M. H. F. Bettega. \
-Phys. Chem. Chem. Phys. 22, 7894 (2020).
+Phys. Chem. Chem. Phys. 22, 7894-7902 (2020).
 
 * 18\.
 [The Generality of the GUGA MRCI Approach in COLUMBUS for Treating Complex Quantum Chemistry](https://doi.org/10.1063/1.5144267) \
@@ -181,7 +181,7 @@ J. Chem. Phys. 149, 174308 (2018).
 * 14\.
 [Nuclear Ensemble Approach with Importance Sampling](https://doi.org/10.1021/acs.jctc.8b00059) \
 **F. Kossoski**\*, M. Barbatti\*. \
-J. Chem. Theory Comput. 14, 3173 (2018).
+J. Chem. Theory Comput. 14, 6, 3173-3183 (2018).
 
 * 13\.
 [Integral elastic, vibrational-excitation, electronic-state excitation, ionization, and total cross sections for electron scattering from para-benzoquinone](https://doi.org/10.1063/1.5028298) \
@@ -216,17 +216,17 @@ J. Chem. Phys. 145, 044310 (2016).
 * 7\.
 [Anion states and fragmentation of 2-chloroadenine upon low-energy electron collisions](https://doi.org/10.1039/C5CP04967A) \
 **F. Kossoski**, J. Kopyra, M. T. do N. Varella\*. \
-Phys. Chem. Chem. Phys. 17, 28958 (2015).
+Phys. Chem. Chem. Phys. 17, 28958-28965 (2015).
 
 * 6\.
 [Negative ion states of 5-bromouracil and 5-iodouracil](https://doi.org/10.1039/C5CP01475A) \
 **F. Kossoski**, M. T. do N. Varella\*. \
-Phys. Chem. Chem. Phys. 17, 17271 (2015).
+Phys. Chem. Chem. Phys. 17, 17271-17278 (2015).
 
 * 5\.
 [Electron driven reactions in sulphur containing analogues of uracil: the case of 2-thiouracil](https://doi.org/10.1039/C4CP03544E) \
 J. Kopyra\*, H. Abdoul-Carime, **F. Kossoski**, M. T. do N. Varella. \
-Phys. Chem. Chem. Phys. 16, 25054 (2014).
+Phys. Chem. Chem. Phys. 16, 25054-25061 (2014).
 
 * 4\.
 [Interaction of low-energy electrons with dimethyl sulfide and dimethyl disulfide](https://doi.org/10.1103/PhysRevA.90.052713) \
