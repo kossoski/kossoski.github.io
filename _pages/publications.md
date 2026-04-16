@@ -13,44 +13,49 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
+* 48\.
+[The Newton-X Platform for Mixed Quantum–Classical Dynamics](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15002063/v1) \
+M. Barbatti\*, R. S. Mattos, B. Demoulin, M. de O. Bispo, M. Bondanza, M. Brady, R. Crespo-Otero, E. G. F. de Miranda, P. O. Dral, G. Granucci, A. Hehn, F. J. Hernández, G. Iuzzolino, R. Kar, **F. Kossoski**, H. Lischka, B. Mennucci, S. Mukherjee, A. Mukhopadhyay, F. Perrella, M. Persico, M. Pinheiro Jr, J. Pittner, F. Plasser, N. Rega, E. Sangiogo-Gil, T. Thorat, J. M. Toldo, A. A. Tomaz, M. T. do N. Varella, L. Vasquez.
+(Submitted)
+
 * 47\.
 [Formation of the Long-Lived Parent Anion upon Electron Attachment to Menadione](https://doi.org/10.1021/acs.jpca.5c07629) \
-F. Izadi, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
+F. Izadi, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\*. \
 J. Phys. Chem. A 130, 10, 2041-2050 (2026).
 
 * 46\.
 [Complex Absorbing Potential Green's Function Methods for Resonances](https://doi.org/10.1021/acs.jctc.5c01164) \
-L. Burth, **F. Kossoski**, and P.-F. Loos\* \
+L. Burth, **F. Kossoski**, and P.-F. Loos\*. \
 J. Chem. Theory Comput. 21, 22, 11463-11480 (2025).
 
 * 45\.
 [Vacuum ultraviolet spectroscopy of pyrimidine derivatives: effect of halogenation](https://doi.org/10.1039/D5CP00198F) \
-**F. Kossoski**\*, M. Mendes\*, A. I. Lozano, R. Rodrigues, N. C. Jones, S. V. Hoffmann, F. Ferreira da Silva \
+**F. Kossoski**\*, M. Mendes\*, A. I. Lozano, R. Rodrigues, N. C. Jones, S. V. Hoffmann, F. Ferreira da Silva. \
 Phys. Chem. Chem. Phys. 27, 9687-9701 (2025).
 
 * 44\.
 [Low-Energy Electron Interactions with Methyl-p-benzoquinone: Study of Negative Ion Formation](https://doi.org/10.1021/acsomega.4c04899) \
-J. Chen, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\* \
+J. Chen, A. Pelc\*, J. Ameixa, **F. Kossoski**\*, S. Denifl\*. \
 ACS Omega 9, 36, 38032-38043 (2024).
 
 * 43\.
 [Selected Configuration Interaction for Resonances](https://doi.org/10.1021/acs.jpclett.4c02060) \
-Y. Damour\*, A. Scemama, **F. Kossoski**\*, P.-F. Loos\* \
+Y. Damour\*, A. Scemama, **F. Kossoski**\*, P.-F. Loos\*. \
 J. Phys. Chem. Lett. 15, 32, 8296-8305 (2024).
 
 * 42\.
 [Reference Energies for Double Excitations: Improvement and Extension](https://doi.org/10.1021/acs.jctc.4c00410) \
-**F. Kossoski**\*, M. Boggio-Pasqua\*, P.-F. Loos\*, D. Jacquemin\* \
+**F. Kossoski**\*, M. Boggio-Pasqua\*, P.-F. Loos\*, D. Jacquemin\*. \
 J. Chem. Theory Comput. 20, 13, 5655-5678 (2024).
 
 * 41\.
 [State-Specific Coupled-Cluster Methods for Excited States](https://doi.org/10.1021/acs.jctc.4c00034) \
-Y. Damour\*, A. Scemama, D. Jacquemin, **F. Kossoski**\*, P.-F. Loos\* \
+Y. Damour\*, A. Scemama, D. Jacquemin, **F. Kossoski**\*, P.-F. Loos\*. \
 J. Chem. Theory Comput. 20, 10, 4129-4145 (2024).
 
 * 40\.
 [Reference Vertical Excitation Energies for Transition Metal Compounds](https://doi.org/10.1021/acs.jctc.3c01080) \
-D. Jacquemin\*, **F. Kossoski**, F. Gam, M. Boggio-Pasqua\*, P.-F. Loos\* \
+D. Jacquemin\*, **F. Kossoski**, F. Gam, M. Boggio-Pasqua\*, P.-F. Loos\*. \
 J. Chem. Theory Comput. 19, 23, 8782-8800 (2023).
 
 * 39\.
@@ -65,7 +70,7 @@ J. Chem. Phys. 159, 194301 (2023).
 
 * 37\.
 [Electron Scattering from 1-Methyl-5-Nitroimidazole: Cross-Sections for Modeling Electron Transport through Potential Radiosensitizers](https://doi.org/10.3390/ijms241512182) \
-A. I. Lozano, L. Álvarez, A. García-Abenza, C. Guerra, **F. Kossoski**, J. Rosado, F. Blanco, J. C. Oller , M. Hasan, M. Centurion, T. Weber, D. S. Slaughter, D. M. Mootheril, A. Dorn, S. Kumar, P. Limão-Vieira, R. Colmenares, G. García\*. \
+A. I. Lozano, L. Álvarez, A. García-Abenza, C. Guerra, **F. Kossoski**, J. Rosado, F. Blanco, J. C. Oller, M. Hasan, M. Centurion, T. Weber, D. S. Slaughter, D. M. Mootheril, A. Dorn, S. Kumar, P. Limão-Vieira, R. Colmenares, G. García\*. \
 Int. J. Mol. Sci. 24(15), 12182 (2023).
 
 * 36\. 

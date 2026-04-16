@@ -59,7 +59,7 @@ Publications
 Talks
 ======
 
-* [16 talks](https://kossoski.github.io/talks/) in conferences, being 10 invited talks
+* [17 talks](https://kossoski.github.io/talks/) in conferences, being 11 invited talks
 
 Supervision and mentoring
 ======
@@ -107,6 +107,7 @@ Academic services
   * Journal of Physics: Conference Series
 
 * **Jury member in PhD and Master’s defense and qualifying exams**
+  * 2026 &nbsp; PhD defense of Ely Miranda, at USP, São Paulo, Brazil
   * 2025 &nbsp; Master defense of Valéria Liberti, at UFPR, Curitiba, Brazil
   * 2024 &nbsp; PhD defense of Yann Damour, at Université de Toulouse, Toulouse, France
   * 2021 &nbsp; Master’s qualifying exam of Alan G. Falkowski, at Unicamp, Campinas, Brazil

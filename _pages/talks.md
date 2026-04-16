@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+* 17\. **On the different solutions of the complex absorbing potential method for resonances** \
+5th DEA Club Meeting, Sopot, Poland (2026). \
+Invited talk
+
 * 16\. **Towards highly accurate resonance energies in electron-molecule scattering** \
 POSMOL, Matsue, Japan (2025). \
 Invited talk
