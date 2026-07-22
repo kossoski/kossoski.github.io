@@ -53,8 +53,8 @@ Publications
 ======
 
 * [48 publications](https://kossoski.github.io/publications/) in peer-reviewed scientific journals
-* [936 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 18](https://www.webofscience.com/wos/author/record/47997303) (Web of Science)
-* [1291 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 21](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) (Google Scholar)
+* [960 citations](https://www.webofscience.com/wos/author/record/47997303) and [H-index 19](https://www.webofscience.com/wos/author/record/47997303) (Web of Science)
+* [1320 citations](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) and [H-index 21](https://scholar.google.com/citations?user=EJNA6n4AAAAJ&hl=en) (Google Scholar)
 
 Talks
 ======
@@ -65,7 +65,6 @@ Supervision and mentoring
 ======
 
 * **Supervision**
-  * 2024 - present &nbsp; Josep Alberola Boloix (PhD student)
   * 2026 - present &nbsp; Antonin Dufour (Master student)
 
 * **Mentoring**
@@ -82,10 +81,10 @@ Academic services
 ======
 
 * **Peer-review** \
-  [85 reports](https://orcid.org/0000-0002-1627-7093) for 18 peer-reviewed scientific journals:
+  [88 reports](https://orcid.org/0000-0002-1627-7093) for 18 peer-reviewed scientific journals:
   * Physical Review A
-  * Journal of Chemical Theory and Computation
   * Physical Chemistry Chemical Physics
+  * Journal of Chemical Theory and Computation
   * The Journal of Chemical Physics
   * Journal of Physics B: Atomic, Molecular, and Optical Physics
   * The European Physical Journal D

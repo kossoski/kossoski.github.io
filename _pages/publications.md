@@ -16,7 +16,7 @@ author_profile: true
 * 48\.
 [The Newton-X Platform for Mixed Quantum–Classical Dynamics](https://doi.org/10.1039/D6CP01391K) \
 M. Barbatti\*, R. S. Mattos, B. Demoulin, M. de O. Bispo, M. Bondanza, M. Brady, R. Crespo-Otero, E. G. F. de Miranda, P. O. Dral, G. Granucci, A. Hehn, F. J. Hernández, G. Iuzzolino, R. Kar, **F. Kossoski**, H. Lischka, B. Mennucci, S. Mukherjee, A. Mukhopadhyay, F. Perrella, M. Persico, M. Pinheiro Jr, J. Pittner, F. Plasser, N. Rega, E. Sangiogo-Gil, T. Thorat, J. M. Toldo, A. A. Tomaz, M. T. do N. Varella, L. Vasquez. \
-Phys. Chem. Chem. Phys. (in press) (2026).
+Phys. Chem. Chem. Phys. 28 (26), 15751-15767 (2026).
 
 * 47\.
 [Formation of the Long-Lived Parent Anion upon Electron Attachment to Menadione](https://doi.org/10.1021/acs.jpca.5c07629) \
@@ -31,7 +31,7 @@ J. Chem. Theory Comput. 21, 22, 11463-11480 (2025).
 * 45\.
 [Vacuum ultraviolet spectroscopy of pyrimidine derivatives: effect of halogenation](https://doi.org/10.1039/D5CP00198F) \
 **F. Kossoski**\*, M. Mendes\*, A. I. Lozano, R. Rodrigues, N. C. Jones, S. V. Hoffmann, F. Ferreira da Silva. \
-Phys. Chem. Chem. Phys. 27, 9687-9701 (2025).
+Phys. Chem. Chem. Phys. 27 (18), 9687-9701 (2025).
 
 * 44\.
 [Low-Energy Electron Interactions with Methyl-p-benzoquinone: Study of Negative Ion Formation](https://doi.org/10.1021/acsomega.4c04899) \
@@ -121,7 +121,7 @@ J. Chem. Phys. 155, 104105 (2021).
 * 27\.
 [Anion states of halocamphor molecules: insights into chirally sensitive dissociative electron attachment](https://doi.org/10.1039/D1CP02316K) \
 J. C. Ruivo, **F. Kossoski**, M. T. do N. Varella\*. \
-Phys. Chem. Chem. Phys. 23, 17616-17624 (2021).
+Phys. Chem. Chem. Phys. 23 (32), 17616-17624 (2021).
 
 * 26\.
 [Excited States from State-Specific Orbital-Optimized Pair Coupled Cluster](https://doi.org/10.1021/acs.jctc.1c00348) \
@@ -136,7 +136,7 @@ Int. J. Mol. Sci. 22(12), 6460 (2021).
 * 24\.
 [Perfluoro effect on the electronic excited states of para-benzoquinone revealed by experiment and theory](https://doi.org/10.1039/D0CP05626J) \
 J. Pereira-da-Silva, M. Mendes\*, **F. Kossoski**\*, A. I. Lozano, R. Rodrigues, N. C. Jones, S. V. Hoffmann, F. Ferreira da Silva. \
-Phys. Chem. Chem. Phys. 23, 2141-2153 (2021).
+Phys. Chem. Chem. Phys. 23 (3), 2141-2153 (2021).
 
 * 23\.
 [Shape Resonances and Elastic Cross Sections in Electron Scattering by CF<sub>3</sub>Br and CF<sub>3</sub>I](https://doi.org/10.1021/acs.jpca.0c07845) \
@@ -146,7 +146,7 @@ J. Phys. Chem. A 124, 42, 8660-8667 (2020).
 * 22\.
 [Selective bond breaking of halothane induced by electron transfer in potassium collisions](https://doi.org/10.1039/D0CP02570D) \
 A. I. Lozano, L. S. Maioli, B. Pamplona, J. Romero, M. Mendes, F. Ferreira da Silva, **F. Kossoski**, M. Probst, D. Süß, M. H. F. Bettega, G. García, P. Limão-Vieira\*. \
-Phys. Chem. Chem. Phys. 22, 23837-23846 (2020).
+Phys. Chem. Chem. Phys. 22 (41), 23837-23846 (2020).
 
 * 21\.
 [Nonadiabatic dynamics in multidimensional complex potential energy surfaces](https://doi.org/10.1039/D0SC04197A) \
@@ -161,7 +161,7 @@ J. Chem. Phys. 152, 244302 (2020).
 * 19\.
 [Low-energy electron scattering by cyanamide: anion spectra and dissociation pathways](https://doi.org/10.1039/D0CP00806K) \
 L. S. Maioli, **F. Kossoski**\*, M. H. F. Bettega. \
-Phys. Chem. Chem. Phys. 22, 7894-7902 (2020).
+Phys. Chem. Chem. Phys. 22 (15), 7894-7902 (2020).
 
 * 18\.
 [The Generality of the GUGA MRCI Approach in COLUMBUS for Treating Complex Quantum Chemistry](https://doi.org/10.1063/1.5144267) \
@@ -221,17 +221,17 @@ J. Chem. Phys. 145, 044310 (2016).
 * 7\.
 [Anion states and fragmentation of 2-chloroadenine upon low-energy electron collisions](https://doi.org/10.1039/C5CP04967A) \
 **F. Kossoski**, J. Kopyra, M. T. do N. Varella\*. \
-Phys. Chem. Chem. Phys. 17, 28958-28965 (2015).
+Phys. Chem. Chem. Phys. 17 (43), 28958-28965 (2015).
 
 * 6\.
 [Negative ion states of 5-bromouracil and 5-iodouracil](https://doi.org/10.1039/C5CP01475A) \
 **F. Kossoski**, M. T. do N. Varella\*. \
-Phys. Chem. Chem. Phys. 17, 17271-17278 (2015).
+Phys. Chem. Chem. Phys. 17 (26), 17271-17278 (2015).
 
 * 5\.
 [Electron driven reactions in sulphur containing analogues of uracil: the case of 2-thiouracil](https://doi.org/10.1039/C4CP03544E) \
 J. Kopyra\*, H. Abdoul-Carime, **F. Kossoski**, M. T. do N. Varella. \
-Phys. Chem. Chem. Phys. 16, 25054-25061 (2014).
+Phys. Chem. Chem. Phys. 16 (45), 25054-25061 (2014).
 
 * 4\.
 [Interaction of low-energy electrons with dimethyl sulfide and dimethyl disulfide](https://doi.org/10.1103/PhysRevA.90.052713) \
