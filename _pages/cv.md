@@ -59,7 +59,7 @@ Publications
 Talks
 ======
 
-* [17 talks](https://kossoski.github.io/talks/) in conferences, being 11 invited talks
+* [18 talks](https://kossoski.github.io/talks/) in conferences, being 11 invited talks
 
 Supervision and mentoring
 ======

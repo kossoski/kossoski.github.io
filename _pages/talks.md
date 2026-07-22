@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+* 18\. **When multiple solutions describe the same state: complex absorbing potential method for resonances** \
+TheMoSiA conference, Nantes, France (2026). \
+Selected contributed talk
+
 * 17\. **On the different solutions of the complex absorbing potential method for resonances** \
 5th DEA Club Meeting, Sopot, Poland (2026). \
 Invited talk
