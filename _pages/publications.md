@@ -13,6 +13,11 @@ author_profile: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
+* 49\.
+[On the multiple solutions of the complex absorbing potential method for resonances]() \
+**F. Kossoski**\*. \
+Chem. Sci. (in press).
+
 * 48\.
 [The Newton-X Platform for Mixed Quantum–Classical Dynamics](https://doi.org/10.1039/D6CP01391K) \
 M. Barbatti\*, R. S. Mattos, B. Demoulin, M. de O. Bispo, M. Bondanza, M. Brady, R. Crespo-Otero, E. G. F. de Miranda, P. O. Dral, G. Granucci, A. Hehn, F. J. Hernández, G. Iuzzolino, R. Kar, **F. Kossoski**, H. Lischka, B. Mennucci, S. Mukherjee, A. Mukhopadhyay, F. Perrella, M. Persico, M. Pinheiro Jr, J. Pittner, F. Plasser, N. Rega, E. Sangiogo-Gil, T. Thorat, J. M. Toldo, A. A. Tomaz, M. T. do N. Varella, L. Vasquez. \
