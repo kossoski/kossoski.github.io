@@ -14,7 +14,7 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \* Corresponding author(s)
 
 * 49\.
-[On the multiple solutions of the complex absorbing potential method for resonances]() \
+[On the multiple solutions of the complex absorbing potential method for resonances](https://doi.org/10.1039/D6SC03887E) \
 **F. Kossoski**\*. \
 Chem. Sci. (in press).
 
