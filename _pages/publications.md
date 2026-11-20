@@ -16,7 +16,7 @@ author_profile: true
 * 49\.
 [On the multiple solutions of the complex absorbing potential method for resonances](https://doi.org/10.1039/D6SC03887E) \
 **F. Kossoski**\*. \
-Chem. Sci. (in press).
+Chem. Sci. 17 (43), 21064-21080 (2026).
 
 * 48\.
 [The Newton-X Platform for Mixed Quantum–Classical Dynamics](https://doi.org/10.1039/D6CP01391K) \
@@ -156,7 +156,7 @@ Phys. Chem. Chem. Phys. 22 (41), 23837-23846 (2020).
 * 21\.
 [Nonadiabatic dynamics in multidimensional complex potential energy surfaces](https://doi.org/10.1039/D0SC04197A) \
 **F. Kossoski**\*, M. Barbatti\*. \
-Chem. Sci. 11, 9827-9835 (2020).
+Chem. Sci. 11 (36), 9827-9835 (2020).
 
 * 20\.
 [Electronic excitation of ethanol by low-energy electron impact](https://doi.org/10.1063/5.0008428) \

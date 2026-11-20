@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+* 19\. **Bayesian optimization of non-Hermitian parameters for efficient electronic resonance calculations** \
+3rd Theory around X-ray spectroscopies workshop, Lille, France (2026). \
+Invited talk
+
 * 18\. **When multiple solutions describe the same state: complex absorbing potential method for resonances** \
 TheMoSiA conference, Nantes, France (2026). \
 Selected contributed talk
